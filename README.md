@@ -29,4 +29,7 @@ Proyek ini mengembangkan sistem pemberian makan kucing otomatis berbasis IoT men
 | **RTC**         | Menjaga sinkronisasi waktu untuk pemberian makan sesuai jadwal yang telah diatur.         |
 | **Loadcell**    | Mengukur berat makanan di wadah makan untuk memastikan porsi makanan yang tepat.          |
 | **Sensor HC-SR04** | Untuk memonitoring jumlah kesediaan ppakan dipenampungan pakan.                                   |
+## 📊Diagram Blok
+Diagram Blok Sistem.
 
+![Diagram Komponen](HARDWARE/Diagram-komponen.jpeg)
