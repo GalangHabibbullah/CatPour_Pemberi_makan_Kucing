@@ -1,4 +1,5 @@
 ﻿# CatPour_Pemberi_makan_Kucing
+![Logo Catpour](ASSET/logo%20Catpour.png)
 Tujuan dari proyek ini adalah untuk memudahkan pemilik kucing untuk memberikan makan secara teratur apabila sang pemilik tidak berada dirumah atau memiliki kesibukan
 Pengembangkan sistem pemberian makan kucing otomatis berbasis IoT menggunakan komponen utama seperti Arduino Uno, RTC (Real-Time Clock), Loadcell, dan sensor HC-SR04. Arduino Uno berfungsi sebagai mikrokontroler utama yang mengontrol seluruh sistem, memungkinkan komunikasi antara berbagai sensor dan perangkat, serta memungkinkan pengaturan pemberian makan kucing secara otomatis.
 
