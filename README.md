@@ -16,11 +16,11 @@ pemilik kucing dapat:
 ## Team Member
 |      NRP      |        Nama       |        Jobdesk        |                    Akun                  |
 | :-----------: |:----------------: | :-------------------: | :---------------------------------------:|
-| 2123500004    | Rachmat Dhani G   | 3D Design             | [Dhani](https://github.com/AdrianIqbalR)
-| 2123500005    | M. Ghibran K      | Hardware              | [Ghibran](https://github.com/nataratungga)
-| 2123500020    | Adhitya Ramadhani | UI / UX Design        | [Firman](https://github.com/AdityaWahyuW)
-| 2123500025    | Adhi Pramana R    | Programmer            | [Rama](https://github.com/Khrisnapy)
-| 2123500030    | Galang Habibbullah| Project Manager       | [Galang](https://github.com/FI7EEE)
+| 2123500004    | Rachmat Dhani G   | 3D Design             | [Dhani](https://github.com/rachmatdhani)
+| 2123500005    | M. Ghibran K      | Hardware              | [Ghibran](https://github.com/Smolyyymokka)
+| 2123500020    | Adhitya Ramadhani | UI / UX Design        | [Firman](https://github.com/adhitya161004)
+| 2123500025    | Adhi Pramana R    | Programmer            | [Rama](https://github.com/Adhi-Rama)
+| 2123500030    | Galang Habibbullah| Project Manager       | [Galang](https://github.com/GalangHabibbullah)
 ## KOMPONEN 
 Proyek ini mengembangkan sistem pemberian makan kucing otomatis berbasis IoT menggunakan komponen utama seperti **Arduino Uno**, **RTC (Real-Time Clock)**, **Loadcell**, dan **sensor HC-SR04**. 
 | Komponen        | Fungsi                                                                                   |
