@@ -4,18 +4,29 @@
 
 ## 📌 **TUJUAN**
 
-Tujuan dari proyek ini adalah untuk memudahkan pemilik kucing dalam memberikan makan secara teratur apabila sang pemilik tidak berada di rumah atau memiliki kesibukan.
-
-Proyek ini mengembangkan sistem pemberian makan kucing otomatis berbasis IoT menggunakan komponen utama seperti **Arduino Uno**, **RTC (Real-Time Clock)**, **Loadcell**, dan **sensor HC-SR04**. 
-
-- **Arduino Uno** berfungsi sebagai mikrokontroler utama yang mengontrol seluruh sistem, memungkinkan komunikasi antara berbagai sensor dan perangkat, serta memungkinkan pengaturan pemberian makan secara otomatis.
-- **RTC** menjaga sinkronisasi waktu, sehingga memungkinkan pemberian makan sesuai jadwal yang telah diatur.
-- **Loadcell** digunakan untuk mengukur berat makanan yang ada di dalam wadah makan, memastikan porsi makanan yang diberikan tepat dan sesuai kebutuhan kucing.
-- **Sensor HC-SR04** digunakan untuk mendeteksi wadah tempat penampungan makanan.
-
-Seluruh data dari sensor ini dapat dikirimkan ke platform cloud atau aplikasi mobile, sehingga pemilik kucing dapat:
-
+Banyak pemilik kucing kesulitan memberi makan secara teratur karena kesibukan atau sering bepergian. Ketidakteraturan ini bisa berdampak pada kesehatan kucing. Untuk mengatasi hal tersebut,Sistem ini dirancang untuk mempermudah pemilik kucing dalam memberi makan hewan peliharaan mereka, meningkatkan efisiensi waktu, serta memastikan kucing mendapat porsi makanan yang sesuai kebutuhannya. Dengan bantuan CatPour pemilik tidak perlu khawatir untuk memberi makan kucing peliharaanya apabila tidak berada didalam rumah.
+pemilik kucing dapat:
 - Memantau status pemberian makan secara real-time.
 - Melakukan pengaturan jadwal jarak jauh.
+### Support BY :
+>- Dosen Pengampu : Akhmad Hendriawan ST., MT. (NIP.197501272002121003)<br>
+>- Mata kuliah : Workshop Mikrokontroller<br>
+>- Program Studi : D3 Teknik Elektronika<br>
+>- Politeknik Elektronika Negeri Surabaya<br>
+## Team Member
+|      NRP      |        Nama       |        Jobdesk        |                    Akun                  |
+| :-----------: |:----------------: | :-------------------: | :---------------------------------------:|
+| 2123500004    | Rachmat Dhani G   | 3D Design             | [Dhani](https://github.com/AdrianIqbalR)
+| 2123500005    | M. Ghibran K      | Hardware              | [Ghibran](https://github.com/nataratungga)
+| 2123500020    | Adhitya Ramadhani | UI / UX Design        | [Firman](https://github.com/AdityaWahyuW)
+| 2123500025    | Adhi Pramana R    | Programmer            | [Rama](https://github.com/Khrisnapy)
+| 2123500030    | Galang Habibbullah| Project Manager       | [Galang](https://github.com/FI7EEE)
+## KOMPONEN 
+Proyek ini mengembangkan sistem pemberian makan kucing otomatis berbasis IoT menggunakan komponen utama seperti **Arduino Uno**, **RTC (Real-Time Clock)**, **Loadcell**, dan **sensor HC-SR04**. 
+| Komponen        | Fungsi                                                                                   |
+|-----------------|------------------------------------------------------------------------------------------|
+| **Arduino Uno** | Berfungsi sebagai mikrokontroler utama yang mengontrol sistem, komunikasi sensor, dan pengaturan pemberian makan otomatis. |
+| **RTC**         | Menjaga sinkronisasi waktu untuk pemberian makan sesuai jadwal yang telah diatur.         |
+| **Loadcell**    | Mengukur berat makanan di wadah makan untuk memastikan porsi makanan yang tepat.          |
+| **Sensor HC-SR04** | Untuk memonitoring jumlah kesediaan ppakan dipenampungan pakan.                                   |
 
-Sistem ini dirancang untuk mempermudah pemilik kucing dalam memberi makan hewan peliharaan mereka, meningkatkan efisiensi waktu, serta memastikan kucing mendapat porsi makanan yang sesuai kebutuhannya.
