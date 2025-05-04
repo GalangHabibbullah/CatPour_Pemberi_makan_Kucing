@@ -30,8 +30,8 @@ Proyek ini mengembangkan sistem pemberian makan kucing otomatis berbasis IoT men
 | **Loadcell**    | Mengukur berat makanan di wadah makan untuk memastikan porsi makanan yang tepat.          |
 | **Sensor HC-SR04** | Untuk memonitoring jumlah kesediaan ppakan dipenampungan pakan.    |
 ## Desain 3D PCB
-
-![Desain 3D PCB](HARDWARE/Project1%20rev/Desain%203D%20PCB.png)
+Desain 3D VIEW KICAD
+![Desain 3D PCB](HARDWARE/3D-PCB.png)
 
 ## 📊Diagram Blok
 Diagram Blok Sistem.
