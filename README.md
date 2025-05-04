@@ -28,7 +28,11 @@ Proyek ini mengembangkan sistem pemberian makan kucing otomatis berbasis IoT men
 | **Arduino Uno** | Berfungsi sebagai mikrokontroler utama yang mengontrol sistem, komunikasi sensor, dan pengaturan pemberian makan otomatis. |
 | **RTC**         | Menjaga sinkronisasi waktu untuk pemberian makan sesuai jadwal yang telah diatur.         |
 | **Loadcell**    | Mengukur berat makanan di wadah makan untuk memastikan porsi makanan yang tepat.          |
-| **Sensor HC-SR04** | Untuk memonitoring jumlah kesediaan ppakan dipenampungan pakan.                                   |
+| **Sensor HC-SR04** | Untuk memonitoring jumlah kesediaan ppakan dipenampungan pakan.    |
+## Desain 3D PCB
+
+![Desain 3D PCB](HARDWARE/Project1%20rev/Desain%203D%20PCB.png)
+
 ## 📊Diagram Blok
 Diagram Blok Sistem.
 
