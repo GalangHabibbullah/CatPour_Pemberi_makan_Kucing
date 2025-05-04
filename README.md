@@ -32,6 +32,8 @@ Proyek ini mengembangkan sistem pemberian makan kucing otomatis berbasis IoT men
 ## Desain 3D PCB
 Desain 3D VIEW KICAD
 ![Desain 3D PCB](HARDWARE/3D-PCB.png)
+## Desain 3D Alat
+![Desain Alat](3D/desain%20alat.jpeg)
 
 ## 📊Diagram Blok
 Diagram Blok Sistem.
