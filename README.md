@@ -2,12 +2,23 @@
 
 ![Logo Catpour](ASSET/logo%20Catpour.png)
 ---
-## 📌 **TUJUAN**
+🐱CatPour - SOLUSI CERDAS PARA CATLOVERS
+Pernah merasa bersalah karena lupa memberi makan kucing karena sedang bepergian jauh? Atau bingung berapa porsi makan kucing yang dibutuhkan? CatPour hadir sebagai solusi cerdas para catlovers
 
-Banyak pemilik kucing kesulitan memberi makan secara teratur karena kesibukan atau sering bepergian. Ketidakteraturan ini bisa berdampak pada kesehatan kucing. Untuk mengatasi hal tersebut,Sistem ini dirancang untuk mempermudah pemilik kucing dalam memberi makan hewan peliharaan mereka, meningkatkan efisiensi waktu, serta memastikan kucing mendapat porsi makanan yang sesuai kebutuhannya. Dengan bantuan CatPour pemilik tidak perlu khawatir untuk memberi makan kucing peliharaanya apabila tidak berada didalam rumah.
-pemilik kucing dapat:
-- Memantau status pemberian makan secara real-time.
-- Melakukan pengaturan jadwal jarak jauh.
+Bayangkan kamu pulang ke rumah setelah berlibur. Kucingmu mengeong karena sedang kelaparan karena makanan yang telah kamu siapkan sudah habis tak bersisa. Tapi tenang kejadian itu tidak akan terulang ketika CatPour hadir.
+
+CatPour hadir untuk menyelesaikan masalah para catlovers ketika sedeang bepergian. Sekarang Catlovers tidak perlu khawatir terhadap kucing piaraanya yang kelaparan, karena Catpour memberikan makanan secara otomatis sesuai jadwal dan dalam porsi yang cukup. 
+## 🎯 Objectives
+
+- Mendeteksi jumlah sisa makanan pada bak penampungan makan  
+- Memberi makan sesuai dengan porsi si kucing
+- Memberi makan secara otomatis sesuai dengan jadwal makan.
+- Menyediakan monitoring sisa makanan secara real-time melalui UART ke komputer.
+## 🧠 LATAR BELAKANG
+--- 
+Mempunyai kucing piaraan merupakan kesenangan sebagian orang, sering kali juga menjadi tantangan dalam hal pemberian makan, terutama bagi orang-orang sibuk atau yang sering  bepergian. Salah satu penyebab ketidakaturan ini bisa berdampak pada kesehatan kucing
+
+**CatPour** memberikan solusi dengan cara pemberian makan otomatis sesuai porsi makan kucing  yang dibutuhkan.
 ---
 ### Support BY :
 >- Dosen Pengampu : Akhmad Hendriawan ST., MT. (NIP.197501272002121003)<br>
