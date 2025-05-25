@@ -31,11 +31,23 @@ Proyek ini mengembangkan sistem pemberian makan kucing otomatis berbasis IoT men
 | **Sensor HC-SR04** | Untuk memonitoring jumlah kesediaan ppakan dipenampungan pakan.    |
 ## Desain 3D PCB
 Desain 3D VIEW KICAD
-![Desain 3D PCB](HARDWARE/3D-PCB.png)
+
+![Desain 3D PCB](HARDWARE/hardware/3D.png)
+
+## Desain Schematic PCB
+Desain Schematic 
+
+![Desain 3D PCB](HARDWARE/hardware/Schematic.png)
+
+## Desain Layout
+Desain Layout PCB 
+
+![Desain 3D PCB](HARDWARE/hardware/Layout.png)
+
 ## Desain 3D Alat
 ![Desain Alat](3D/desain%20alat.jpeg)
 
 ## 📊Diagram Blok
 Diagram Blok Sistem.
 
-![Diagram Komponen](HARDWARE/Diagram-komponen.jpeg)
+![Diagram Komponen](ASSET/Diagram-Sistem.png)
