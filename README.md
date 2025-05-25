@@ -8,6 +8,7 @@ Pernah merasa bersalah karena lupa memberi makan kucing karena sedang bepergian 
 Bayangkan kamu pulang ke rumah setelah berlibur. Kucingmu mengeong karena sedang kelaparan karena makanan yang telah kamu siapkan sudah habis tak bersisa. Tapi tenang kejadian itu tidak akan terulang ketika CatPour hadir.
 
 CatPour hadir untuk menyelesaikan masalah para catlovers ketika sedeang bepergian. Sekarang Catlovers tidak perlu khawatir terhadap kucing piaraanya yang kelaparan, karena Catpour memberikan makanan secara otomatis sesuai jadwal dan dalam porsi yang cukup.
+
 ---
 ## 🎯 Objectives
 
