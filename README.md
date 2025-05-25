@@ -7,15 +7,16 @@ Pernah merasa bersalah karena lupa memberi makan kucing karena sedang bepergian 
 
 Bayangkan kamu pulang ke rumah setelah berlibur. Kucingmu mengeong karena sedang kelaparan karena makanan yang telah kamu siapkan sudah habis tak bersisa. Tapi tenang kejadian itu tidak akan terulang ketika CatPour hadir.
 
-CatPour hadir untuk menyelesaikan masalah para catlovers ketika sedeang bepergian. Sekarang Catlovers tidak perlu khawatir terhadap kucing piaraanya yang kelaparan, karena Catpour memberikan makanan secara otomatis sesuai jadwal dan dalam porsi yang cukup. 
+CatPour hadir untuk menyelesaikan masalah para catlovers ketika sedeang bepergian. Sekarang Catlovers tidak perlu khawatir terhadap kucing piaraanya yang kelaparan, karena Catpour memberikan makanan secara otomatis sesuai jadwal dan dalam porsi yang cukup.
+---
 ## 🎯 Objectives
 
 - Mendeteksi jumlah sisa makanan pada bak penampungan makan  
 - Memberi makan sesuai dengan porsi si kucing
 - Memberi makan secara otomatis sesuai dengan jadwal makan.
-- Menyediakan monitoring sisa makanan secara real-time melalui UART ke komputer.
+- Menyediakan monitoring sisa makanan secara real-time melalui UART ke komputer
+---
 ## 🧠 LATAR BELAKANG
---- 
 Mempunyai kucing piaraan merupakan kesenangan sebagian orang, sering kali juga menjadi tantangan dalam hal pemberian makan, terutama bagi orang-orang sibuk atau yang sering  bepergian. Salah satu penyebab ketidakaturan ini bisa berdampak pada kesehatan kucing
 
 **CatPour** memberikan solusi dengan cara pemberian makan otomatis sesuai porsi makan kucing  yang dibutuhkan.
