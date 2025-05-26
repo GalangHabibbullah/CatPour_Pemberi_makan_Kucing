@@ -23,7 +23,7 @@ Mempunyai kucing piaraan merupakan kesenangan sebagian orang, sering kali juga m
 **CatPour** memberikan solusi dengan cara pemberian makan otomatis sesuai porsi makan kucing  yang dibutuhkan.
 
 ---
-![Logo Catpour](ASSET/Team.png)
+
 
 ### Support BY :
 >- Dosen Pengampu : Akhmad Hendriawan ST., MT. (NIP.197501272002121003)<br>
@@ -31,6 +31,7 @@ Mempunyai kucing piaraan merupakan kesenangan sebagian orang, sering kali juga m
 >- Program Studi : D3 Teknik Elektronika<br>
 >- Politeknik Elektronika Negeri Surabaya<br>
 ---
+![Logo Catpour](ASSET/Team.png)
 ## Team Member
 |      NRP      |        Nama       |        Jobdesk        |                    Akun                  |
 | :-----------: |:----------------: | :-------------------: | :---------------------------------------:|
