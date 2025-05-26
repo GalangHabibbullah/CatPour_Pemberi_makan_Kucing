@@ -23,6 +23,7 @@ Mempunyai kucing piaraan merupakan kesenangan sebagian orang, sering kali juga m
 **CatPour** memberikan solusi dengan cara pemberian makan otomatis sesuai porsi makan kucing  yang dibutuhkan.
 
 ---
+![Logo Catpour](ASSET/Team.png)
 
 ### Support BY :
 >- Dosen Pengampu : Akhmad Hendriawan ST., MT. (NIP.197501272002121003)<br>
