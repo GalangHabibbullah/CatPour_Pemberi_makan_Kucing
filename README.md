@@ -25,13 +25,13 @@ Mempunyai kucing piaraan merupakan kesenangan sebagian orang, sering kali juga m
 ---
 
 ![Logo Catpour](ASSET/Team.png)
-###🦾 Support BY 🦾:
+## 🦾 Support BY :
 >- Dosen Pengampu : Akhmad Hendriawan ST., MT. (NIP.197501272002121003)<br>
 >- Mata kuliah : Workshop Mikrokontroller<br>
 >- Program Studi : D3 Teknik Elektronika<br>
 >- Politeknik Elektronika Negeri Surabaya<br>
 ---
-##😎 Team Member😎
+## 😎 Team Member
 |      NRP      |        Nama       |        Jobdesk        |                    Akun                  |
 | :-----------: |:----------------: | :-------------------: | :---------------------------------------:|
 | 2123500004    | Rachmat Dhani G   | 3D Design             | [Dhani](https://github.com/rachmatdhani)
@@ -40,7 +40,8 @@ Mempunyai kucing piaraan merupakan kesenangan sebagian orang, sering kali juga m
 | 2123500025    | Adhi Pramana R    | Programmer            | [Rama](https://github.com/Adhi-Rama)
 | 2123500030    | Galang Habibbullah| Project Manager       | [Galang](https://github.com/GalangHabibbullah)
 ---
-##🔗 KOMPONEN 🔗 
+## 🔗 KOMPONEN 🔗 
+
 Proyek ini mengembangkan sistem pemberian makan kucing otomatis berbasis IoT menggunakan komponen utama seperti **Arduino Uno**, **RTC (Real-Time Clock)**, **Loadcell**, dan **sensor HC-SR04**. 
 | Komponen        | Fungsi                                                                                   |
 |-----------------|------------------------------------------------------------------------------------------|
