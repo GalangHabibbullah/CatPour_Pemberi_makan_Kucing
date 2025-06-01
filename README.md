@@ -24,14 +24,13 @@ Mempunyai kucing piaraan merupakan kesenangan sebagian orang, sering kali juga m
 
 ---
 
-
+![Logo Catpour](ASSET/Team.png)
 ### Support BY :
 >- Dosen Pengampu : Akhmad Hendriawan ST., MT. (NIP.197501272002121003)<br>
 >- Mata kuliah : Workshop Mikrokontroller<br>
 >- Program Studi : D3 Teknik Elektronika<br>
 >- Politeknik Elektronika Negeri Surabaya<br>
 ---
-![Logo Catpour](ASSET/Team.png)
 ## Team Member
 |      NRP      |        Nama       |        Jobdesk        |                    Akun                  |
 | :-----------: |:----------------: | :-------------------: | :---------------------------------------:|
