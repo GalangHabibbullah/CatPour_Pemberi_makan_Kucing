@@ -80,3 +80,18 @@ Diagram Blok Sistem.
 - [KiCad](https://kicad.org/)
 - [Figma](https://www.figma.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
+---
+## PRINSIP KERJA 
+## Pembacaan penampungan makan
+- Sensor HCSR 04 mengirim nilai jarak yang dikonversi menjadi nilai %
+100 % = Penampungan Makan Full ; 0 % = Penampungan Makan Kosong
+- Sensor Loadcell membaca berat pakan kucing yang keluar, apabila mencapai 20 gram maka servo akan menutup
+## Pemrosesan oleh Arduino 
+- Arduino  Membaca data  sensor secara berkala, Keputusan diambil untuk membuka servo atau menutup servo
+## Tampilan Gui 
+- GUI akan menampilkan data berat, sisa makan dan juga posisi servo
+
+--- 
+## Pengembangan Kedepannya
+- Penambahan Kamera untuk pemantauan jarak jauh
+- Penambahan Pemberi minum secara otomatis
