@@ -98,3 +98,6 @@ Diagram Blok Sistem.
 
 ## Link simulasi Wokwi
 -- https://wokwi.com/projects/432622796153693185
+
+## Link video simulasi
+-- https://github.com/GalangHabibbullah/CatPour_Pemberi_makan_Kucing/tree/d1d1669227759c1687d57a3f496b5af06effbe53/PROGRAM/Demo
