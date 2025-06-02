@@ -75,7 +75,7 @@ Hasil Cetak PCB
 ![Desain Alat](3D/desain%20alat.jpeg)
 ---
 ## Desain Jadi
-![Desain Alat](3D/3D%jadi.jpg)
+![Desain 3D Jadi](3D/3D%20jadi.jpg)
 ---
 ## 📊Diagram Blok
 Diagram Blok Sistem.
