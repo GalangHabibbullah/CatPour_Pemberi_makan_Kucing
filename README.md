@@ -95,3 +95,6 @@ Diagram Blok Sistem.
 ## Pengembangan Kedepannya
 - Penambahan Kamera untuk pemantauan jarak jauh
 - Penambahan Pemberi minum secara otomatis
+
+## Link simulasi Wokwi
+-- https://wokwi.com/projects/432622796153693185
