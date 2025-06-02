@@ -115,3 +115,6 @@ Diagram Blok Sistem.
 
 ## TINGVERS
 -- https://www.thingiverse.com/thing:7054144
+
+## LINK FIGMA
+https://www.figma.com/design/loQbXYYag1uOcxZlFO6y6Z/Untitled?node-id=12-356&p=f&t=XrePOnV4dfjZV4aA-0
