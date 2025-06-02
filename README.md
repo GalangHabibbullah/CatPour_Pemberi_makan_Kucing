@@ -113,3 +113,5 @@ Diagram Blok Sistem.
 ## Link video simulasi
 -- [https://github.com/GalangHabibbullah/CatPour_Pemberi_makan_Kucing/tree/d1d1669227759c1687d57a3f496b5af06effbe53/PROGRAM/Demo](https://github.com/GalangHabibbullah/CatPour_Pemberi_makan_Kucing/issues/1#issue-3108780877)
 
+## TINGVERS
+-- https://www.thingiverse.com/thing:7054144
