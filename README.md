@@ -66,6 +66,11 @@ Desain Layout PCB
 
 ![Desain 3D PCB](HARDWARE/hardware/Layout.png)
 ---
+## Desain  PCB JADI
+Hasil Cetak PCB
+
+![Desain 3D PCB](HARDWARE/hardware/PCB.jpeg)
+---
 ## Desain 3D Alat
 ![Desain Alat](3D/desain%20alat.jpeg)
 ---
