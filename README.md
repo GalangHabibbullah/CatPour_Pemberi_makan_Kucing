@@ -82,7 +82,8 @@ Diagram Blok Sistem.
 
 ![Diagram Komponen](ASSET/Diagram-Sistem.png)
 ---
-👉 [Buka Desain di Canva](https://www.canva.com/design/DAGlKYwItEs/LvxNZYy6FBDl_eHO4LGI4A/edit?utm_content=DAGlKYwItEs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+## LINK PPT PRESENTASI
+[![Buka Desain di Canva](https://img.shields.io/badge/Buka%20Desain%20di-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/design/DAGlKYwItEs/LvxNZYy6FBDl_eHO4LGI4A/edit?utm_content=DAGlKYwItEs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Software Tools
 
