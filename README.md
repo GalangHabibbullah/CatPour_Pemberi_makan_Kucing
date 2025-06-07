@@ -14,6 +14,31 @@ CatPour hadir untuk menyelesaikan masalah para catlovers ketika sedeang bepergia
 [![Watch the demo](https://img.youtube.com/vi/FYVQH_eTqcQ/0.jpg)](https://youtube.com/shorts/FYVQH_eTqcQ?si=p7NEjKbdANHq4uou)
 
 ---
+## Link simulasi Wokwi
+-- https://wokwi.com/projects/432622796153693185
+-- [https://github.com/GalangHabibbullah/CatPour_Pemberi_makan_Kucing/tree/fe5401d0f07f7c271f16389e5ba98aa213cf10a5/PROGRAM/Wokwi](https://github.com/GalangHabibbullah/CatPour_Pemberi_makan_Kucing/issues/2#issue-3108791988)
+
+---
+
+## Link Video Demo
+-- [https://github.com/GalangHabibbullah/CatPour_Pemberi_makan_Kucing/tree/d1d1669227759c1687d57a3f496b5af06effbe53/PROGRAM/Demo](https://github.com/GalangHabibbullah/CatPour_Pemberi_makan_Kucing/issues/1#issue-3108780877)
+
+---
+
+## TINGVERS
+-- https://www.thingiverse.com/thing:7054144
+
+---
+
+## LINK PPT PRESENTASI
+[![Buka Desain di Canva](https://img.shields.io/badge/Buka%20Desain%20di-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/design/DAGlKYwItEs/LvxNZYy6FBDl_eHO4LGI4A/edit?utm_content=DAGlKYwItEs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+---
+
+## LINK FIGMA
+https://www.figma.com/design/loQbXYYag1uOcxZlFO6y6Z/Untitled?node-id=12-356&p=f&t=XrePOnV4dfjZV4aA-0
+
+---
 ## 🎯 Objectives
 
 - Mendeteksi jumlah sisa makanan pada bak penampungan makan  
@@ -86,8 +111,6 @@ Diagram Blok Sistem.
 
 ![Diagram Komponen](ASSET/Diagram-Sistem.png)
 ---
-## LINK PPT PRESENTASI
-[![Buka Desain di Canva](https://img.shields.io/badge/Buka%20Desain%20di-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/design/DAGlKYwItEs/LvxNZYy6FBDl_eHO4LGI4A/edit?utm_content=DAGlKYwItEs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Software Tools
 
@@ -110,19 +133,6 @@ Diagram Blok Sistem.
 ## Pengembangan Kedepannya
 - Penambahan Kamera untuk pemantauan jarak jauh
 - Penambahan Pemberi minum secara otomatis
-
-## Link simulasi Wokwi
--- https://wokwi.com/projects/432622796153693185
--- [https://github.com/GalangHabibbullah/CatPour_Pemberi_makan_Kucing/tree/fe5401d0f07f7c271f16389e5ba98aa213cf10a5/PROGRAM/Wokwi](https://github.com/GalangHabibbullah/CatPour_Pemberi_makan_Kucing/issues/2#issue-3108791988)
-
-## Link video simulasi
--- [https://github.com/GalangHabibbullah/CatPour_Pemberi_makan_Kucing/tree/d1d1669227759c1687d57a3f496b5af06effbe53/PROGRAM/Demo](https://github.com/GalangHabibbullah/CatPour_Pemberi_makan_Kucing/issues/1#issue-3108780877)
-
-## TINGVERS
--- https://www.thingiverse.com/thing:7054144
-
-## LINK FIGMA
-https://www.figma.com/design/loQbXYYag1uOcxZlFO6y6Z/Untitled?node-id=12-356&p=f&t=XrePOnV4dfjZV4aA-0
 
 ---
 ## 📫 Contact Information
