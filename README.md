@@ -14,6 +14,9 @@ CatPour hadir untuk menyelesaikan masalah para catlovers ketika sedeang bepergia
 [![Watch the demo](https://img.youtube.com/vi/FYVQH_eTqcQ/0.jpg)](https://youtube.com/shorts/FYVQH_eTqcQ?si=p7NEjKbdANHq4uou)
 
 ---
+## BUKU PANDUAN
+📘 [Klik di sini untuk melihat buku proyek](./ASSET/buku.pdf)
+
 ## Link simulasi Wokwi
 -- https://wokwi.com/projects/432622796153693185
 -- [https://github.com/GalangHabibbullah/CatPour_Pemberi_makan_Kucing/tree/fe5401d0f07f7c271f16389e5ba98aa213cf10a5/PROGRAM/Wokwi](https://github.com/GalangHabibbullah/CatPour_Pemberi_makan_Kucing/issues/2#issue-3108791988)
