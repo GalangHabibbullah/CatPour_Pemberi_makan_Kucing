@@ -10,6 +10,10 @@ Bayangkan kamu pulang ke rumah setelah berlibur. Kucingmu mengeong karena sedang
 CatPour hadir untuk menyelesaikan masalah para catlovers ketika sedeang bepergian. Sekarang Catlovers tidak perlu khawatir terhadap kucing piaraanya yang kelaparan, karena Catpour memberikan makanan secara otomatis sesuai jadwal dan dalam porsi yang cukup.
 
 ---
+## 🎬 Commercial Video
+[![Watch the demo](https://img.youtube.com/vi/FYVQH_eTqcQ/0.jpg)](https://youtube.com/shorts/FYVQH_eTqcQ?si=p7NEjKbdANHq4uou)
+
+---
 ## 🎯 Objectives
 
 - Mendeteksi jumlah sisa makanan pada bak penampungan makan  
@@ -119,3 +123,12 @@ Diagram Blok Sistem.
 
 ## LINK FIGMA
 https://www.figma.com/design/loQbXYYag1uOcxZlFO6y6Z/Untitled?node-id=12-356&p=f&t=XrePOnV4dfjZV4aA-0
+
+---
+## 📫 Contact Information
+
+untuk segala informasi, kolaborasi, dan juga pemesanan alat bisa kirim email dibawah ini
+
+**📧 Email:** [yourname@example.com](mailto:yourname@example.com)
+
+Hanya aktif saat jam kerja, berikan subjek pada email agar  dibalas lebih cepat
