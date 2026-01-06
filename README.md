@@ -142,6 +142,7 @@ Diagram Blok Sistem.
 
 untuk segala informasi, kolaborasi, dan juga pemesanan alat bisa kirim email dibawah ini
 
-**📧 Email:** [yourname@example.com](mailto:yourname@example.com)
+**📧 Email:** [yourname@example.com](mailto:galanghabibbullah3@gmail.com)
 
 Hanya aktif saat jam kerja, berikan subjek pada email agar  dibalas lebih cepat
+
